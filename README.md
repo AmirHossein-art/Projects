@@ -18,7 +18,8 @@ Course: Principles and Regulations of Contract
 Instructor: Dr. Amin Alvanchi
 
 Description: This project focuses on preparing a tender for constructing 15 rural municipality buildings. It includes tender management practices, contract documentation, and an analysis of construction regulations applicable to rural development projects.
-3. Quantity takeoff and cost estimation of construction projects using Building Information Modeling (BIM). |
+
+3. Quantity takeoff and cost estimation of construction projects using Building Information Modeling (BIM).
 
    Course: Construction Project Management Systems of Iran
    
