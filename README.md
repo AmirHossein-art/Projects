@@ -7,6 +7,7 @@ This repository contains my final projects completed during my B.Sc. in Civil En
    BSc. Project
    
    Supervisor: Dr. Amin Alvanchi
+   
    Advisor: Dr. Masoud Zwari
 
    Description: This project developed an intelligent and integrated system for the automatic recognition and classification of 3D BIM objects. The system uses Autodesk Platform Services (APS) to convert RFA files to RVT format and automatically generate 2D views, which are then classified using the Transformer-based OVPT model.
